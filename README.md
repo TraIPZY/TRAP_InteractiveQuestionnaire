@@ -64,13 +64,13 @@ An interactive script to easily create questionnaires in **FiveM**, with **Disco
 
 ## Images / Visuals
 
+<img width="755" height="488" alt="image" src="https://github.com/user-attachments/assets/89c3b4cd-a225-4c36-851a-cd6aa25f16a5" />
+<img width="353" height="254" alt="image" src="https://github.com/user-attachments/assets/5ab47108-3b0d-4420-8b5a-6a73a34434fe" />
 
 
 ```
-<img width="755" height="488" alt="image" src="https://github.com/user-attachments/assets/df12f4a1-a666-4d6a-9575-08b7fb6cf03e" />
 
-[<img width="359" height="252" alt="Screenshot 2025-11-22 124805" src="https://github.com/user-attachments/assets/22f12cf8-0719-4ef3-9bb9-bbe8a1f7162b" />](https://r2.fivemanage.com/fvzpmKoNaaTzC1BzW59dp/Screenshot2025-11-22124715.png)
 
-```
+
 
 
