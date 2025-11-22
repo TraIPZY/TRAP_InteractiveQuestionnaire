@@ -1,4 +1,4 @@
-local webhook = "https://discord.com/api/webhooks/1441837386756526210/3onww67A_XMghvj5g26LadCFZ3WT0hL2xI3-3NE0MUzFdmptYPCH-8sPWqFTCeRwwXpN"
+local webhook = "YOUR-LINK"
 
 RegisterNetEvent("ppa:sendToPolice")
 AddEventHandler("ppa:sendToPolice", function(data)
