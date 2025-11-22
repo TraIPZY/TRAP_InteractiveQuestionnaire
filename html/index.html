@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div id="container" style="display:none;">
+    <div class="header">
+        <h2>Test Psychologique - Demande de PPA</h2>
+    </div>
+    
+    <div class="form-content">
+        <!-- Informations personnelles -->
+        <label>Nom complet :</label>
+        <input type="text" id="name">
+
+        <label>Âge :</label>
+        <input type="number" id="age">
+
+        <!-- Historique personnel -->
+        <label>As-tu déjà eu des épisodes de dépression, d’angoisse ou de crise de panique ?</label>
+        <input type="text" id="depression">
+
+        <label>As-tu déjà consulté un psychologue, psychiatre ou pris des médicaments pour la santé mentale ?</label>
+        <input type="text" id="psy">
+
+        <label>As-tu déjà eu des idées suicidaires ou d’automutilation ?</label>
+        <input type="text" id="suicidal">
+
+        <label>Comment gères-tu le stress dans ta vie de tous les jours ?</label>
+        <input type="text" id="stress">
+
+        <!-- Gestion de la colère -->
+        <label>Comment réagis-tu quand quelqu’un te manque de respect ?</label>
+        <input type="text" id="disrespect">
+
+        <label>Raconte une situation où tu t’es vraiment mis en colère. Qu’as-tu fait ?</label>
+        <input type="text" id="anger">
+
+        <label>As-tu déjà cassé des objets ou frappé quelqu’un sous la colère ?</label>
+        <input type="text" id="physical">
+
+        <label>Comment te calmes-tu quand tu sens que tu perds patience ?</label>
+        <input type="text" id="calm">
+
+        <!-- Consommation -->
+        <label>À quelle fréquence bois-tu de l’alcool ? Jusqu’à l’ivresse ?</label>
+        <input type="text" id="alcohol">
+
+        <label>As-tu déjà conduit ou manipulé quelque chose de dangereux sous l’effet de l’alcool ou de drogues ?</label>
+        <input type="text" id="dangerous">
+
+        <label>As-tu déjà eu des problèmes liés à ta consommation ?</label>
+        <input type="text" id="problems">
+
+        <!-- Antécédents de violence -->
+        <label>As-tu déjà été impliqué dans des bagarres ?</label>
+        <input type="text" id="fights">
+
+        <label>Es-tu déjà allé au tribunal (criminel ou civil) ?</label>
+        <input type="text" id="tribunal">
+
+        <label>Y a-t-il déjà eu des plaintes contre toi pour menaces, harcèlement, violence conjugale ou autre ?</label>
+        <input type="text" id="complaints">
+
+        <label>As-tu déjà intimidé ou menacé quelqu’un ?</label>
+        <input type="text" id="bully">
+
+        <!-- Motivation PPA -->
+        <label>Pourquoi veux-tu obtenir un PPA ?</label>
+        <input type="text" id="reason">
+
+        <label>Qu’est-ce que cela changerait dans ta vie quotidienne ?</label>
+        <input type="text" id="impact">
+
+        <label>Comment vois-tu ta responsabilité en tant que propriétaire d’arme ?</label>
+        <input type="text" id="responsibility">
+
+        <!-- Sécurité -->
+        <label>Comment assurerais-tu la sécurité de l’arme à la maison ?</label>
+        <input type="text" id="security">
+
+        <label>Que ferais-tu si tu te sens très en colère ou déprimé alors que tu as accès à une arme ?</label>
+        <input type="text" id="emotion">
+
+        <label>Comment réagirais-tu si quelqu’un dans ton entourage veut manipuler ton arme ?</label>
+        <input type="text" id="manipulate">
+
+        <!-- Commentaire général -->
+        <label>Commentaires supplémentaires :</label>
+        <input type="text" id="commentaire">
+
+        <div class="buttons">
+            <button class="btn-send" onclick="sendTest()">Envoyer</button>
+            <button class="btn-close" onclick="closeUI()">Fermer</button>
+        </div>
+    </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
