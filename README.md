@@ -67,7 +67,8 @@ An interactive script to easily create questionnaires in **FiveM**, with **Disco
 
 
 ```
-[<img width="764" height="491" alt="Screenshot 2025-11-22 124715" src="https://github.com/user-attachments/assets/c62a381e-ddbf-4e4b-a013-490425433625" />](https://r2.fivemanage.com/fvzpmKoNaaTzC1BzW59dp/Screenshot2025-11-22124805.png)
+<img width="755" height="488" alt="image" src="https://github.com/user-attachments/assets/df12f4a1-a666-4d6a-9575-08b7fb6cf03e" />
+
 [<img width="359" height="252" alt="Screenshot 2025-11-22 124805" src="https://github.com/user-attachments/assets/22f12cf8-0719-4ef3-9bb9-bbe8a1f7162b" />](https://r2.fivemanage.com/fvzpmKoNaaTzC1BzW59dp/Screenshot2025-11-22124715.png)
 
 ```
