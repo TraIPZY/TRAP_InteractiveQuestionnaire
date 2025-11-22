@@ -67,8 +67,9 @@ An interactive script to easily create questionnaires in **FiveM**, with **Disco
 
 
 ```
-![Questionnaire Example](path/to/image1.png)
-![ox_target Interaction](path/to/image2.png)
+<img width="764" height="491" alt="Screenshot 2025-11-22 124715" src="https://github.com/user-attachments/assets/c62a381e-ddbf-4e4b-a013-490425433625" />
+<img width="359" height="252" alt="Screenshot 2025-11-22 124805" src="https://github.com/user-attachments/assets/22f12cf8-0719-4ef3-9bb9-bbe8a1f7162b" />
+
 ```
 
 
